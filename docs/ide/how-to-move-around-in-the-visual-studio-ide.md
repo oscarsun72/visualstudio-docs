@@ -89,7 +89,7 @@ The integrated development environment (IDE) has been designed to allow you to m
 -   In the list, select the file you want to view and then choose **Activate**.  
   
 ## Navigating Among Tool Windows in the IDE  
- The **IDE Navigator** also lets you cycle through the tool windows you have open in the IDE. You can use either of two commands to access the **IDE Navigator** to cycle through tool windows, depending on the order in which you want to cycle through. `Window.PreviousToolWindowNav` allows you to move to the file most recently accessed and `Window.NextToolWindowNav` allows you to move in the reverse order. General Development Settings assigns SHIFT + ALT + F7 to `Window.PreviousDocumentWindowNav` and ALT + F7 to `Window.NextDocumentWindowNav`.  
+ The **IDE Navigator** also lets you cycle through the tool windows you have open in the IDE. You can use either of two commands to access the **IDE Navigator** to cycle through tool windows, depending on the order in which you want to cycle through. `Window.PreviousToolWindowNav` allows you to move to the file most recently accessed and `Window.NextToolWindowNav` allows you to move in the reverse order. General Development Settings assigns SHIFT + ALT + F7 to `Window.PreviousToolWindowNav` and ALT + F7 to `Window.NextToolWindowNav`.  
   
 > [!NOTE]
 >  If the settings combination you are using does not already have a shortcut key combination assigned to this command, you can assign your own custom command using the **Keyboard** page of the **Options** dialog box. For more information, see [Identifying and Customizing Keyboard Shortcuts](../ide/identifying-and-customizing-keyboard-shortcuts-in-visual-studio.md).  
